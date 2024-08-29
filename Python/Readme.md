@@ -8,17 +8,19 @@ Python is a powerful and versatile programming language that's easy to learn and
 
 ## Learning Path
 
-### [**Week 1**](Week1.md) **Getting Started with Python**
+### [**Week 1**](Week1.md) : **Getting Started with Python**
    - **Introduction to Python**: Learn what Python is, how it works, and where it's used.
    - **Setting Up Python**: Instructions on installing Python on your local machine.
    - **Hello, World!**: Write your first Python program.
-
-### 2. **Python Basics**
    - **Variables and Data Types**: Learn about Python's basic data types (integers, floats, strings) and how to use them.
-   - **Control Flow**: Understand conditional statements (`if`, `else`, `elif`) and loops (`for`, `while`).
+   - **Control Flow**: Understand conditional statements (`if`, `else`, `elif`) 
+
+### [**Week 2**](Week2.md) : **Python Basics**
+   
+   - **Control Flow**: Understand conditional statements loops (`for`, `while`).
    - **Functions**: Learn how to define and use functions to organize your code.
 
-### 3. **Working with Data**
+### [**Week 3**](Week3.md) : **Working with Data**
    - **Lists, Tuples, and Dictionaries**: Learn how to store and manipulate collections of data.
    - **File Handling**: Read from and write to files in Python.
    - **Modules and Packages**: Discover how to use and import Python libraries.
@@ -36,7 +38,7 @@ Python is a powerful and versatile programming language that's easy to learn and
 
 To complement this guide, here are some excellent resources to learn Python:
 
-- **[CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2023/)**: A comprehensive course by Harvard that covers Python fundamentals.
+- **[CS50's Introduction to Programming with Python]([https://cs50.harvard.edu/python/2023/](https://www.youtube.com/watch?v=nLRL_NcnK-4))**: A comprehensive course by Harvard that covers Python fundamentals.
 - **[Programming with Mosh: Python Tutorials](https://www.youtube.com/watch?v=_uQrJ0TkZlc)**: A great series of video tutorials for beginners.
 - **[FreeCodeCamp: Python for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)**: A complete tutorial for absolute beginners.
 - **[Python Documentation](https://docs.python.org/3/)**: The official Python documentation is an invaluable resource for reference.
