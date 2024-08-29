@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 : Intro into Python
 
 ## Learning Path
 
@@ -27,7 +27,10 @@
    - **Comparison Operators**: Explore how to compare values in Python using comparison operators.  
      - [Watch at 01:11:25](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=4285s)
 
-### **Test your skills**
+### 4. **Skill Assessment**
+
+   After completing the lessons on loops, it's time to test your understanding and enhance your problem-solving skills with the following challenges.
+   
    - [**Welcome aboard - Python**](https://www.geeksforgeeks.org/problems/welcome-aboard-python/1?page=1&category=python&difficulty=Basic&sortBy=difficulty)
    - [**If condition statement - Python**](https://www.geeksforgeeks.org/problems/if-loop-python/1?page=1&category=python&difficulty=Easy&sortBy=difficulty)
    - [**Check the status - Python**](https://www.geeksforgeeks.org/problems/check-the-status/1?page=1&category=python&difficulty=Easy&sortBy=difficulty)
