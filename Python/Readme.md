@@ -8,7 +8,7 @@ Python is a powerful and versatile programming language that's easy to learn and
 
 ## Learning Path
 
-### 1. **Getting Started with Python**
+### [**Week 1**](Week1.md) **Getting Started with Python**
    - **Introduction to Python**: Learn what Python is, how it works, and where it's used.
    - **Setting Up Python**: Instructions on installing Python on your local machine.
    - **Hello, World!**: Write your first Python program.
@@ -45,8 +45,8 @@ To complement this guide, here are some excellent resources to learn Python:
 
 After learning the basics, it's essential to practice coding to solidify your understanding:
 
-- **LeetCode**: Solve Python-based coding challenges to test your skills.
-- **GeeksforGeeks**: Explore Python problems and solutions.
+- [**LeetCode**](https://leetcode.com/problemset/): Solve Python-based coding challenges to test your skills.
+- [**GeeksforGeeks**](https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header): Explore Python problems and solutions.
 
 ## Get Started
 
