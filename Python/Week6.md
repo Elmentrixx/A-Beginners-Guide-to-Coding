@@ -14,11 +14,7 @@
    - **PyPI and Pip**: Discover how to install and manage third-party packages using Pip and PyPI.
      - [Watch at 03:50:47](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=13847s)
 
-## 2. **Test Your Skills**
-
-   Apply your knowledge with these practice problems:
-
-### **GeeksforGeeks Problems**
+### **GeeksforGeeks Resources**
    - **Modules**
      - [**Python Modules**](https://www.geeksforgeeks.org/python-modules/): Practice creating and using custom modules in Python.
      - [**Using Modules in Python**](https://www.geeksforgeeks.org/using-modules-python/): Exercises focused on importing and utilizing various Python modules.
@@ -39,15 +35,11 @@
      - [**Using Pip to Install Packages**](https://www.geeksforgeeks.org/how-to-install-pip-in-windows/): Learn how to use Pip to install and manage Python packages.
      - [**Working with Virtual Environments**](https://www.geeksforgeeks.org/python-virtual-environment/): Practice setting up and using virtual environments for managing dependencies.
 
-### **LeetCode Problems**
+## 2. **Test Your Skills**
+
+   Apply your knowledge with these practice problems:
+
+### **Problems**
    - **Modules and Packages**
-     - [**Evaluate Division**](https://leetcode.com/problems/evaluate-division/): Apply knowledge of modules to break down complex problems.
-     - [**Group Anagrams**](https://leetcode.com/problems/group-anagrams/): Practice using different modules to manipulate and group data effectively.
+     - [**Regex**](https://www.geeksforgeeks.org/problems/regex-python/1?page=1&category=python&difficulty=Basic&sortBy=submissions): Apply knowledge of modules to break down complex problems.
 
-   - **Generating Random Values**
-     - [**Shuffle an Array**](https://leetcode.com/problems/shuffle-an-array/): Use Python's random module to shuffle elements in an array.
-     - [**Random Pick with Weight**](https://leetcode.com/problems/random-pick-with-weight/): A more advanced problem requiring random value generation based on weighted probabilities.
-
-   - **Working with Directories**
-     - [**Delete Operation for Two Strings**](https://leetcode.com/problems/delete-operation-for-two-strings/): Although not directly related to file systems, this problem encourages thinking in terms of operations and file management.
-     - [**Design File System**](https://leetcode.com/problems/design-file-system/): Apply concepts of directory management in designing a file system.
