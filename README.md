@@ -18,7 +18,7 @@ Welcome to the **Beginner's Guide to Coding** repository! This repository is des
    - Once you've learned the basics, it's important to test your skills:
      - Practice coding problems on platforms like [LeetCode](https://leetcode.com/) and [GeeksforGeeks](https://www.geeksforgeeks.org/).
      - Build small projects to apply what you've learned and deepen your understanding.
-     - [**CodePen**](https://codepen.io/) is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration
+     - [**CodePen**](https://codepen.io/) is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 
 ## How This Repo Will Help You
 
@@ -34,5 +34,9 @@ This repository is structured to help you:
 3. Follow along with the recommended tutorials and resources.
 4. Practice coding on LeetCode or GeeksforGeeks.
 5. Share your progress and projects!
+
+## Contribute and Collaborate
+
+This repository is still under development, and your contributions are highly encouraged! Whether you find a typo, have an idea for improving the content, or want to add a new tutorial or project, feel free to create a pull request or open an issue. Let's build a valuable resource together!
 
 Happy coding! 🚀
