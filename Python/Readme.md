@@ -13,24 +13,30 @@ Python is a powerful and versatile programming language that's easy to learn and
    - **Setting Up Python**: Instructions on installing Python on your local machine.
    - **Hello, World!**: Write your first Python program.
    - **Variables and Data Types**: Learn about Python's basic data types (integers, floats, strings) and how to use them.
-   - **Control Flow**: Understand conditional statements (`if`, `else`, `elif`) 
+   - **Control Flow**: Understand conditional statements (`if`, `else`, `elif`).
 
 ### [**Week 2**](Week2.md) : **Python Basics**
-   
-   - **Control Flow**: Understand conditional statements loops (`for`, `while`).
-   - **Functions**: Learn how to define and use functions to organize your code.
+   - **Control Flow**: Dive deeper into control flow by learning about loops (`for`, `while`).
 
 ### [**Week 3**](Week3.md) : **Working with Data**
    - **Lists, Tuples, and Dictionaries**: Learn how to store and manipulate collections of data.
-   - **File Handling**: Read from and write to files in Python.
+
+### [**Week 4**](Week4.md) : **Python funtions**
+   - **Functions**: Learn how to define and use functions to organize your code.
+
+### [**Week 5**](Week5.md) : **Object-Oriented Programming (OOP)**
+   - **Exceptions and Comments**: Understand how to handle errors and write clear code.
+   - **Classes and Constructors**: Learn how to create and initialize objects.
+   - **Inheritance and Polymorphism**: Explore the core concepts of OOP.
+
+### [**Week 6**](Week6.md) : **Modules and Packages**
    - **Modules and Packages**: Discover how to use and import Python libraries.
+   - **PyPI and Pip**: Learn how to install and manage Python packages.
 
-### 4. **Intermediate Python**
-   - **Object-Oriented Programming (OOP)**: Learn the basics of OOP, including classes, objects, inheritance, and polymorphism.
-   - **Error Handling**: Learn how to manage errors and exceptions in your code.
-   - **Working with Libraries**: Explore popular Python libraries like `NumPy`, `Pandas`, and `Matplotlib`.
-
-### 5. **Projects and Exercises**
+### [**Week 7**](Week7.md) : **Projects and Exercises**
+   - **Project 1: Automation with Python**
+   - **Project 2: Machine Learning with Python**
+   - **Project 3: Building a Website with Django**
    - **Mini Projects**: Apply your skills by building small projects such as a calculator, a to-do list, or a simple game.
    - **Practice Problems**: Sharpen your problem-solving skills with coding challenges on platforms like LeetCode and GeeksforGeeks.
 
@@ -38,7 +44,7 @@ Python is a powerful and versatile programming language that's easy to learn and
 
 To complement this guide, here are some excellent resources to learn Python:
 
-- **[CS50's Introduction to Programming with Python]([https://cs50.harvard.edu/python/2023/](https://www.youtube.com/watch?v=nLRL_NcnK-4))**: A comprehensive course by Harvard that covers Python fundamentals.
+- **[CS50's Introduction to Programming with Python](https://www.youtube.com/watch?v=nLRL_NcnK-4)**: A comprehensive course by Harvard that covers Python fundamentals.
 - **[Programming with Mosh: Python Tutorials](https://www.youtube.com/watch?v=_uQrJ0TkZlc)**: A great series of video tutorials for beginners.
 - **[FreeCodeCamp: Python for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)**: A complete tutorial for absolute beginners.
 - **[Python Documentation](https://docs.python.org/3/)**: The official Python documentation is an invaluable resource for reference.
