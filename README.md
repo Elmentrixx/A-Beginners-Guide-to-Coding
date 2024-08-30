@@ -12,11 +12,13 @@ Welcome to the **Beginner's Guide to Coding** repository! This repository is des
 ### 2. **Web Development Basics**
    - Start with the fundamentals of web development: HTML, CSS, and JavaScript.
    - Build your first web pages, understand how to style them, and add interactivity with JavaScript.
+   - Start learning [Web Dev](WebDev/HTML&CSS/Readme.md)
 
 ### 3. **Testing Your Skills**
    - Once you've learned the basics, it's important to test your skills:
      - Practice coding problems on platforms like [LeetCode](https://leetcode.com/) and [GeeksforGeeks](https://www.geeksforgeeks.org/).
      - Build small projects to apply what you've learned and deepen your understanding.
+     - [**CodePen**](https://codepen.io/) is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration
 
 ## How This Repo Will Help You
 
