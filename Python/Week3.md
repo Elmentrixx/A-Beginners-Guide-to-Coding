@@ -18,21 +18,22 @@
 
 ### **GeeksforGeeks Problems**
    - **Lists**
-     - [**Python List Operations**](https://www.geeksforgeeks.org/python-list-operations/): Practice basic list operations like adding, removing, and accessing elements.
-     - [**Python Lists | Set 1**](https://www.geeksforgeeks.org/python-list-set-1/) & [**Set 2**](https://www.geeksforgeeks.org/python-list-set-2/): Comprehensive exercises on Python lists.
+     - [**Sum of Series**](https://www.geeksforgeeks.org/problems/sum-of-series2811/1?page=1&difficulty=Basic&sortBy=submissions): Practice basic list operations like adding, removing, and accessing elements.
+     - [**Array Search**](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&difficulty=Basic&sortBy=submissions) : Comprehensive exercises on Python lists.
+     - [**Min and Max in Array**](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=1&difficulty=Basic&sortBy=submissions)
 
    - **2D Lists**
-     - [**2D Array – DS**](https://www.geeksforgeeks.org/2d-arrays-in-python/): Explore problems involving 2D arrays/lists and practice manipulating data in a grid.
-     - [**Python 2D Lists**](https://www.geeksforgeeks.org/python-2d-lists/): Hands-on problems to solidify your understanding of 2D lists.
+     - [**Count Zeros in a Sorted Matrix**](https://www.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1?page=1&category=Matrix&difficulty=Basic&sortBy=submissions): Explore problems involving 2D arrays/lists and practice manipulating data in a grid.
+     - [**Sum of i-th Row and Column**](https://www.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1?page=1&category=Matrix&difficulty=Basic&sortBy=submissions): Hands-on problems to solidify your understanding of 2D lists.
 
    - **Tuples**
      - [**Python Tuples**](https://www.geeksforgeeks.org/python-tuples/): A set of problems to understand the basics and applications of tuples.
      - [**Python Tuple Methods**](https://www.geeksforgeeks.org/python-tuple-methods/) Practice common tuple operations and methods.
 
    - **Dictionaries**
-     - [**Dictionary 1**](https://www.geeksforgeeks.org/problems/intro-to-dictionary-python/1?page=1&category=python&difficulty=Easy&sortBy=difficulty) Practice problems focused on key-value manipulation.
+     - [**Dictionary 1**](https://www.geeksforgeeks.org/problems/intro-to-dictionary-python/1?page=1&category=python&difficulty=Easy&sortBy=difficulty): Practice problems focused on key-value manipulation.
      - [**Dictionary 2**](https://www.geeksforgeeks.org/problems/dictionary-in-python-ii/1?page=1&category=python&difficulty=Easy&sortBy=difficulty): Learn and practice creating, accessing, and modifying dictionaries.
-     - [**Dictionary 2**](https://www.geeksforgeeks.org/problems/dictionary-in-python-iii/1?page=1&category=python&difficulty=Easy&sortBy=difficulty)
+     - [**Dictionary 3**](https://www.geeksforgeeks.org/problems/dictionary-in-python-iii/1?page=1&category=python&difficulty=Easy&sortBy=difficulty)
      
 
 ### **LeetCode Problems**
