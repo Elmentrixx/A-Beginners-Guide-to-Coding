@@ -7,7 +7,7 @@ Welcome to the **Beginner's Guide to Coding** repository! This repository is des
 ### 1. **Introduction to Python**
    - Learn Python from scratch, starting with the basics and gradually progressing to more complex topics.
    - Resources include beginner-friendly tutorials, exercises, and projects to solidify your understanding.
-   - Start learning [Python](Python/Step1.md)
+   - Start learning [Python](Python/Readme.md)
 
 ### 2. **Web Development Basics**
    - Start with the fundamentals of web development: HTML, CSS, and JavaScript.
