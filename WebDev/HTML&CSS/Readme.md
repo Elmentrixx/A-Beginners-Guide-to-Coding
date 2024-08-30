@@ -6,6 +6,10 @@ Welcome to the Web Development Guide! This repository is designed to take you th
 
 This guide is divided into categories that progressively build your knowledge. Each section includes explanations, examples, and exercises to help you practice what you've learned.
 
+## Build & Test your Model
+
+[**CodePen**](https://codepen.io/) is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+
 ## Learning Topics
 
 ### 1. [HTML Basics](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=62s)
