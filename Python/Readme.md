@@ -21,7 +21,7 @@ Python is a powerful and versatile programming language that's easy to learn and
 ### [**Week 3**](Week3.md) : **Working with Data**
    - **Lists, Tuples, and Dictionaries**: Learn how to store and manipulate collections of data.
 
-### [**Week 4**](Week4.md) : **Python funtions**
+### [**Week 4**](Week4.md) : **Python Funtions**
    - **Functions**: Learn how to define and use functions to organize your code.
 
 ### [**Week 5**](Week5.md) : **Object-Oriented Programming (OOP)**
