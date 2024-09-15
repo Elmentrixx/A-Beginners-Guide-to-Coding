@@ -16,3 +16,6 @@
 
 ## Focus
 This week is all about applying what you've learned in real-world projects. These projects will help solidify your understanding of Python and give you practical experience that you can showcase in your portfolio. Take your time to work through each project, and feel free to revisit previous weeks' material if you need a refresher on specific topics.
+
+---
+[![🏠 Go to Home Page](https://img.shields.io/badge/%F0%9F%8F%A0-Go%20to%20HomePage-blue)](../README.md)   
