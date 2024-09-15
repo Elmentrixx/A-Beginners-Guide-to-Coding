@@ -42,4 +42,8 @@
 ### **Problems**
    - **Modules and Packages**
      - [**Regex**](https://www.geeksforgeeks.org/problems/regex-python/1?page=1&category=python&difficulty=Basic&sortBy=submissions): Apply knowledge of modules to break down complex problems.
+    
+---
+[![🏠 Go to Home Page](https://img.shields.io/badge/%F0%9F%8F%A0-Go%20to%20HomePage-blue)](../README.md)    
+[![📅 Go to Week 2](https://img.shields.io/badge/%F0%9F%93%85-Go%20to%20Week%207-green)](Week7.md)
 
