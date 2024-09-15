@@ -33,3 +33,7 @@
    - [**Design HashMap**](https://leetcode.com/problems/design-hashmap/): Use inheritance to design a HashMap structure in Python.
    - [**Design Parking System**](https://leetcode.com/problems/design-parking-system/): Use OOP concepts to design a parking system using classes and constructors.
    - [**LRU Cache**](https://leetcode.com/problems/lru-cache/): Implement a Least Recently Used (LRU) cache using classes in Python.
+
+---
+[![🏠 Go to Home Page](https://img.shields.io/badge/%F0%9F%8F%A0-Go%20to%20HomePage-blue)](../README.md)    
+[![📅 Go to Week 2](https://img.shields.io/badge/%F0%9F%93%85-Go%20to%20Week%206-green)](Week6.md)
