@@ -51,3 +51,7 @@
    - **Dictionaries**
      - [**Two Sum**](https://leetcode.com/problems/two-sum/): Also applicable here, using dictionaries to track indices and values efficiently.
      - [**Group Anagrams**](https://leetcode.com/problems/group-anagrams/): Leverage dictionaries to group words by their anagram status.
+    
+---
+[![🏠 Go to Home Page](https://img.shields.io/badge/%F0%9F%8F%A0-Go%20to%20HomePage-blue)](../README.md)    
+[![📅 Go to Week 2](https://img.shields.io/badge/%F0%9F%93%85-Go%20to%20Week%204-green)](Week4.md)
