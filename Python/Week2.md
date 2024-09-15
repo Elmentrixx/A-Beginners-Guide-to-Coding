@@ -9,6 +9,8 @@
      - [Watch at 01:41:48](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=6108s)
    - **Nested Loops**: Learn to handle more complex scenarios by placing one loop inside another.
      - [Watch at 01:47:46](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=6466s)
+    
+---
 
 ### 2. **Skill Assessment**
 
@@ -26,3 +28,8 @@
    - [**Defanging an IP Address**](https://leetcode.com/problems/defanging-an-ip-address/description/): Apply loops in a real-world scenario by manipulating IP addresses.
    - [**Jewels and Stones**](https://leetcode.com/problems/jewels-and-stones/description/): A problem focused on counting and comparing elements using loops.
    - [**Goal Parser Interpretation**](https://leetcode.com/problems/goal-parser-interpretation/description/): Challenge your understanding of parsing and interpreting strings with loops.
+
+
+---
+[![🏠 Go to Home Page](https://img.shields.io/badge/%F0%9F%8F%A0-Go%20to%20HomePage-blue)](../README.md)    
+[![📅 Go to Week 2](https://img.shields.io/badge/%F0%9F%93%85-Go%20to%20Week%203-green)](Week3.md)
