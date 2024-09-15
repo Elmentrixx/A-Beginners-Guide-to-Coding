@@ -38,3 +38,6 @@
    - [**Slicing in String - Python**](https://www.geeksforgeeks.org/problems/slicing-in-string-python/1?page=1&category=python&difficulty=Easy&sortBy=difficulty)
    - [**String Functions 1 - Python**](https://www.geeksforgeeks.org/problems/string-functions-i/1?page=1&category=python&difficulty=Easy&sortBy=difficulty)
    - [**String Functions 2 - Python**](https://www.geeksforgeeks.org/problems/string-functions-ii/1?page=1&category=python&difficulty=Easy&sortBy=difficulty)
+
+
+[**Go to HomePage**](../../Readme.md)                   [**Go to Week 2**](Week2.md)
