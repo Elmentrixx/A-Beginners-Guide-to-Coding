@@ -40,4 +40,4 @@
    - [**String Functions 2 - Python**](https://www.geeksforgeeks.org/problems/string-functions-ii/1?page=1&category=python&difficulty=Easy&sortBy=difficulty)
 
 
-[**Go to HomePage**](../../Readme.md)                   [**Go to Week 2**](Week2.md)
+[**Go to HomePage**](../../README.md)                   [**Go to Week 2**](Week2.md)
