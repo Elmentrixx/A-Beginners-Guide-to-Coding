@@ -27,6 +27,8 @@
    - **Comparison Operators**: Explore how to compare values in Python using comparison operators.  
      - [Watch at 01:11:25](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=4285s)
 
+---
+
 ### 4. **Skill Assessment**
 
    After completing the lessons on loops, it's time to test your understanding and enhance your problem-solving skills with the following challenges.
@@ -39,5 +41,6 @@
    - [**String Functions 1 - Python**](https://www.geeksforgeeks.org/problems/string-functions-i/1?page=1&category=python&difficulty=Easy&sortBy=difficulty)
    - [**String Functions 2 - Python**](https://www.geeksforgeeks.org/problems/string-functions-ii/1?page=1&category=python&difficulty=Easy&sortBy=difficulty)
 
-
-[**Go to HomePage**](../README.md)                   [**Go to Week 2**](Week2.md)
+---
+[![🏠 Go to Home Page](https://img.shields.io/badge/%F0%9F%8F%A0-HomePage-blue)](../README.md)    
+[![📅 Go to Week 2](https://img.shields.io/badge/%F0%9F%93%85-Week%202-green)](Week2.md)
