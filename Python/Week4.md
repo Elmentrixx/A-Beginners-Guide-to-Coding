@@ -38,3 +38,7 @@
      - [**Climbing Stairs**](https://leetcode.com/problems/climbing-stairs/): A problem that can be solved by returning results from a recursive function.
      - [**Fibonacci Number**](https://leetcode.com/problems/fibonacci-number/): Use the return statement to solve this classic sequence problem.
      - [**Find All Numbers Disappeared in an Array**](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/): Create reusable functions to find missing elements in an array.
+    
+---
+[![🏠 Go to Home Page](https://img.shields.io/badge/%F0%9F%8F%A0-Go%20to%20HomePage-blue)](../README.md)    
+[![📅 Go to Week 2](https://img.shields.io/badge/%F0%9F%93%85-Go%20to%20Week%204-green)](Week4.md)
