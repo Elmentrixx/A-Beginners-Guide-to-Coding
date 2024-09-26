@@ -17,11 +17,15 @@ This guide is divided into categories that progressively build your knowledge. E
    - Understanding the structure of an HTML document
    - Basic tags and attributes
    - Applying styles with CSS
+     
+Try HTML Exercise : [**Exercise 1**](Exercises/HTML%20Basics.md)
 
 ### 2. [CSS Basics](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=1062s)
    - Basic CSS syntax
    - Styling HTML elements
    - Understanding selectors, properties, and values
+     
+Try CSS Exercise :   [**Exercise 2**](Exercises/CSS%20Basics.md)
 
 ### 3. [Hovers, Transitions, and Shadows](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=2679s)
    - Adding hover effects
