@@ -32,10 +32,14 @@ Try CSS Exercise :   [**Exercise 2**](Exercises/CSS%20Basics.md)
    - Smooth transitions between states
    - Using shadows for depth and emphasis
 
+Try Hovers, Transitions, and Shadows Exercise :   [**Exercise 3**](Exercises/Hover%2C%20Transitions%20%26%20Shadows.md)
+
 ### 4. [Chrome DevTools & CSS Box Model](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=3790s)
    - The CSS box model explained
    - Padding, borders, margins, and content
    - Using Chrome DevTools to inspect and understand the box model
+
+Try Chrome DevTools & CSS Box Model Exercise :   [**Exercise 4**](Exercises/Chrome%20DevTools%20&%20CSS%20Box%20Model.md)
 
 ### 5. [Text Styles](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=4650s)
    - Styling text with CSS
