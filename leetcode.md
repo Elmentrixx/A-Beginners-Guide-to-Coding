@@ -1,6 +1,6 @@
 # How to Use LeetCode to Solve Problems
 
-**LeetCode** is an excellent platform to practice coding and improve problem-solving skills. It offers a wide range of problems that cater to both beginners and advanced users. Here’s how you can effectively use LeetCode to practice:
+[**LeetCode**](https://leetcode.com/problemset/) is an excellent platform to practice coding and improve problem-solving skills. It offers a wide range of problems that cater to both beginners and advanced users. Here’s how you can effectively use LeetCode to practice:
 
 ---
 
