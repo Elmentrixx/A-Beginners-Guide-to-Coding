@@ -6,6 +6,19 @@ Welcome to the **Python for Beginners** section of this repository! This guide i
 
 Python is a powerful and versatile programming language that's easy to learn and use. It's widely used in various fields, including web development, data analysis, machine learning, and more. Python's simple syntax and readability make it an excellent choice for beginners.
 
+
+## How to Install Python
+
+### [**Installing Python on Windows**](Install%20Python.md)
+
+To install Python on Windows, you'll need to download the latest version from the official Python website. During installation, it's important to configure Python so it can be easily accessed via the command line. Once installed, you can verify both Python and its package manager, `pip`, to ensure everything is set up correctly.
+
+### [**Installing Python on macOS**](Install%20Python%20(Mac).md)
+
+macOS often comes with a version of Python pre-installed, but it's typically an older version (Python 2.x). To install the latest version, you can use the Homebrew package manager. After installation, you'll verify that Python 3 and its package manager are functioning correctly. Optionally, you can configure your system to make Python 3 the default version when using the terminal.
+
+---
+
 ## Learning Path
 
 ### [**Week 1**](Week1.md) : **Getting Started with Python**
