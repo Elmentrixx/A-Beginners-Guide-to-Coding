@@ -9,7 +9,10 @@
 
 ---
 
+![lc](https://github.com/user-attachments/assets/79b4aecb-1beb-4567-b7fa-bfa4f31c476e)
+
 #### 1. **Create an Account**
+
    - Visit [LeetCode](https://leetcode.com) and sign up for an account. You can use your email, GitHub, or social media accounts.
    - Having an account allows you to track your progress, save solutions, and participate in discussions.
 
@@ -26,6 +29,8 @@
    - LeetCode provides an integrated online editor with support for multiple programming languages (Python, C++, Java, etc.). You can select your preferred language from a dropdown menu.
    - Write your code in the editor and use the **Run** button to test your solution against the sample cases.
    - If your code passes the sample test cases, you can submit it to be evaluated against hidden test cases by clicking **Submit**.
+
+![lc2](https://github.com/user-attachments/assets/101fef18-3d6e-4cc8-b045-0df1d5460c43)
 
 ---
 
