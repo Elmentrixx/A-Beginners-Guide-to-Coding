@@ -14,7 +14,11 @@ Welcome to the **Beginner's Guide to Coding** repository! This repository is des
    - Build your first web pages, understand how to style them, and add interactivity with JavaScript.
    - Start learning [Web Dev](WebDev/HTML&CSS/Readme.md)
 
-### 3. **Testing Your Skills**
+### 3. **Setting Up Your Coding Environment**
+   - It's essential to have a powerful yet beginner-friendly code editor. We recommend using [Visual Studio Code (VSC)](VSC.md), a free, open-source editor known for its versatility, ease of use, and wide range of extensions.
+   - VSC offers features like IntelliSense for code completion, debugging, Git integration, and the ability to customize your workflow with plugins, making it an ideal tool for both new and experienced developers.
+
+### 4. **Testing Your Skills**
    - Once you've learned the basics, it's important to test your skills:
      - Practice coding problems on platforms like [LeetCode](leetcode.md) and [GeeksforGeeks](https://www.geeksforgeeks.org/).
      - Build small projects to apply what you've learned and deepen your understanding.
@@ -31,9 +35,10 @@ This repository is structured to help you:
 
 1. Clone or download this repository to your local machine.
 2. Start with the **Python** or **Web Development** sections based on your interest.
-3. Follow along with the recommended tutorials and resources.
-4. Practice coding on LeetCode or GeeksforGeeks.
-5. Share your progress and projects!
+3. Set up your development environment with [Visual Studio Code](https://code.visualstudio.com/).
+4. Follow along with the recommended tutorials and resources.
+5. Practice coding on LeetCode or GeeksforGeeks.
+6. Share your progress and projects!
 
 ## Contribute and Collaborate
 
